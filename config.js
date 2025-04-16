@@ -56,12 +56,12 @@ var config = {
             hidden: false,
             title: 'Someplace Georgia',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Shug and Celie's Tennessee House.',
             location: {
-                center: [-83.5573651, 32.5573651], 
-                zoom: 6.5,
-                pitch: 60,
-                bearing: -43.2,
+                center: [35.15109037277128, -90.04073295761009], 
+                zoom: 10,
+                pitch: 90,
+                bearing: -20,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -70,7 +70,7 @@ var config = {
                 //curve: 1, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
