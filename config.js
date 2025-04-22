@@ -59,9 +59,9 @@ var config = {
             description: 'Celies Home',
             location: {
                 center: [32.83528733286411, -83.6324999530437], 
-                zoom: 5,
-                pitch: 40,
-                bearing: -40,
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
