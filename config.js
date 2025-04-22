@@ -15,8 +15,8 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Color Purple Mapping',
-    subtitle: 'Spatial Journeys across the South',
+    title: 'The Color Purple Project',
+    subtitle: 'Spatial Journeys in Southern US',
     byline: 'Josie Fertig',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Macon Georgia',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Celie's Home',
+            description: 'Celies Home',
             location: {
                 center: [32.837802545047666, -83.62770502338032], 
                 zoom: 10,
