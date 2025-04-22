@@ -58,10 +58,10 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Celies Home',
             location: {
-                center: [32.837802545047666, -83.62770502338032], 
-                zoom: 10,
-                pitch: 90,
-                bearing: -20,
+                center: [32.83528733286411, -83.6324999530437], 
+                zoom: 5,
+                pitch: 40,
+                bearing: -40,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
