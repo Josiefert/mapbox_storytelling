@@ -58,7 +58,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Celies Home',
             location: {
-                center: [-83.543, 32.889], 
+                center: [-83.63009669390404, 32.83644120952183], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0,
