@@ -22,11 +22,11 @@ var config = {
     chapters: [
         {
             id: 'opening',
-            alignment: 'centered',
+            alignment: 'right',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Hburg',
             image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'JMU',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
