@@ -26,11 +26,7 @@ var config = {
             hidden: false,
             title: 'Color Purple',
             image: './assets/color_purple_cover.jpg',
-<<<<<<< HEAD
-            description: 'JMU',
-=======
-            description: 'this is where I insert description',
->>>>>>> 9e7025cc824e562859373e1c60226abeabd8f7a1
+            description: 'description',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
