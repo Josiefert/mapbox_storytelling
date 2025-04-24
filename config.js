@@ -22,11 +22,11 @@ var config = {
     chapters: [
         {
             id: 'opening',
-            alignment: 'right',
+            alignment: 'centered',
             hidden: false,
-            title: 'Hburg',
+            title: 'The Color Purple',
             image: './assets/color_purple_cover.jpg',
-            description: 'JMU',
+            description: 'this is where I insert description',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -93,6 +93,36 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
+        },
+         {
+            id: 'chapter-Harrisonburg',
+            alignment: 'centered',
+            hidden: false,
+            title: 'New Title',
+            image: './assets/unknown.jpeg',
+            description: 'new description',
+            location: {
+                center: [-78.8685973206202, 38.44562131795223],
+                zoom: 4,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
         },
         {
             id: 'chapter-three',
