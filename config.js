@@ -94,7 +94,7 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-         {
+        {
             id: 'chapter-Harrisonburg',
             alignment: 'centered',
             hidden: false,
