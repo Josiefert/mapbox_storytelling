@@ -102,7 +102,7 @@ var config = {
             image: './assets/unknown.jpeg',
             description: 'new description',
             location: {
-                center: [-78.8708289182793, 38.44595742954896]
+                center: [-78.8708289182793, 38.44595742954896],
                 zoom: 8.00,
                 pitch: 45.00,
                 bearing: 0
