@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/fertigje/cm98v29l9000401s19bo2cdhw',
+    style: 'mapbox://styles/fertigje/cmacugc5f003e01s73qe75ns5',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoiZmVydGlnamUiLCJhIjoiY205N2szY2U3MDhpZDJqcTM2dWY2MWUxZSJ9.TFgwETgCNev-Gu52yGXZRQ',
     showMarkers: false,
@@ -9,14 +9,14 @@ var config = {
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/
     inset: true,
     insetOptions: {
-        markerColor: 'orange'
+        markerColor: 'blue'
     },
     insetPosition: 'bottom-right',
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'The Color Purple Project',
-    subtitle: 'Spatial Journeys in Southern US',
+    title: 'Black Women and Agency in the U.S. South',
+    subtitle: 'Economic and Geographical Lenses',
     byline: 'Josie Fertig',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Color Purple',
+            title: 'Introduction',
             image: './assets/color_purple_cover.jpg',
-            description: 'description',
+            description: '',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
