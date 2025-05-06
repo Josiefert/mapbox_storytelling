@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Introduction',
-            image: './assets/color_purple_cover.jpg',
+            image: '',
             description: '',
             location: {
                 center: [-90.3150946, 38.6605671],
