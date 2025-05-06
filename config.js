@@ -25,8 +25,8 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Introduction',
-            image: '',
-            description: '',
+            image: 'assets/istockphoto-139257648-612x612.jpg',
+            description: 'By analyzing data of economic purchases and geographical movements in the following novels, it is illustrated that black women of the U.S. South actually had more agency than commonly assumed.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -51,12 +51,12 @@ var config = {
             ]
         },
         {
-            id: 'chapter-one',
+            id: 'Their Eyes were Watching God',
             alignment: 'right',
             hidden: false,
-            title: 'Macon Georgia',
-            image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Celies Home',
+            title: 'Chapters ...',
+            image: '',
+            description: '',
             location: {
                 center: [-83.63009669390404, 32.83644120952183], 
                 zoom: 8.00,
