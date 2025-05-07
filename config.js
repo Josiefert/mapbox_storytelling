@@ -15,8 +15,8 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: '<strong>Black Women and Agency in the U.S. South</strong>',
-    subtitle: '<em>Economic and Geographical Lenses</em>',
+    title: 'Black Agency in the U.S. South',
+    subtitle: 'Economic and Geographical Lenses',
     byline: 'Josie Fertig',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Introduction',
             image: 'assets/istockphoto-139257648-612x612.jpg',
-            description: 'An analysis of data of economic purchases and geographical movements in the following novels illustrates that the black, female characters actually had more agency than would be expected.',
+            description: 'An analysis of data of economic purchases and geographical movements in the following novels illustrates that black characters actually had more agency than would be expected.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -54,9 +54,9 @@ var config = {
             id: 'Eyes1',
             alignment: 'fully',
             hidden: false,
-            title: 'Their Eyes were Watching God <br> Data Overview </br>',
+            title: 'Their Eyes were Watching God: Data Overview',
             image: '',
-            description: 'In this novel, the data shows...',
+            description: 'In this novel, Janie and Tea Cake make numerous purchases and travel all across Florida. The extent of their economic exchanges, namely in Orlando, and the far distances they cover demonstrate how much agency the two had. This is surprising given that this story take places in the 1930s U.S. South.',
             location: {
                 center: [-80.567, 28.045], 
                 zoom: 8.00,
@@ -79,14 +79,14 @@ var config = {
             id: 'Eyes2',
             alignment: 'left',
             hidden: false,
-            title: 'Their Eyes were Watching God <br> Economic Example </br>',
+            title: 'Their Eyes were Watching God: Economic Example',
             image: '',
-            description: '',
+            description: 'From pages 108-115, in Orlando, Tea Cake purchases groceries, multiple clothing items and jewelry for Janie, and goes to the movies.  ',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
-                bearing: 0.00
+                center: [-81.387, 28.557], 
+                zoom: 10.00,
+                pitch: 20.00,
+                bearing: 5.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -98,7 +98,7 @@ var config = {
             id: 'Eyes3',
             alignment: 'right',
             hidden: false,
-            title: 'Their Eyes were Watching God <br> Movement Example </br>',
+            title: 'Their Eyes were Watching God: Movement Example',
             image: '',
             description: '',
             location: {
@@ -117,7 +117,7 @@ var config = {
             id: 'Purple1',
             alignment: 'fully',
             hidden: false,
-            title: 'The Color Purple <br> Data Overview </br>',
+            title: 'The Color Purple: Data Overview',
             image: '',
             description: 'Here, the data says...',
             location: {
@@ -136,7 +136,7 @@ var config = {
             id: 'Purple2',
             alignment: 'left',
             hidden: false,
-            title: 'The Color Purple <br> Economic Example </br>',
+            title: 'The Color Purple: Economic Example',
             image: '',
             description: '',
             location: {
@@ -155,7 +155,7 @@ var config = {
             id: 'Purple3',
             alignment: 'right',
             hidden: false,
-            title: 'The Color Purple <br> Movement Example </br>',
+            title: 'The Color Purple: Movement Example',
             image: '',
             description: '',
             location: {
@@ -174,7 +174,7 @@ var config = {
             id: 'Salvage1',
             alignment: 'fully',
             hidden: false,
-            title: 'Salvage the Bones <br> Data Overview </br>',
+            title: 'Salvage the Bones: Data Overview',
             image: '',
             description: 'The data from this novel, however, offers a contradicting point. Esch is the only predominant black female character and does not have the economic means or circumstances to make large purchases or travel. This highlights the very real experience of lower-class Black families of the South.',
             location: {
@@ -193,7 +193,7 @@ var config = {
             id: 'Salvage2',
             alignment: 'left',
             hidden: false,
-            title: 'Salvage the Bones <br> Economic Example </br>',
+            title: 'Salvage the Bones: Economic Example',
             image: '',
             description: '',
             location: {
@@ -212,7 +212,7 @@ var config = {
             id: 'Salvage3',
             alignment: 'right',
             hidden: false,
-            title: 'Salvage the Bones <br> Movement Example </br>',
+            title: 'Salvage the Bones: Movement Example',
             image: '',
             description: '',
             location: {
@@ -231,7 +231,7 @@ var config = {
             id: 'Conclude',
             alignment: 'fully',
             hidden: false,
-            title: 'Conclusion <br> Limitations of Data </br>', 
+            title: 'Conclusion: Limitations of Data', 
             image: '',
             description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal experience of Black women.',
             location: {
