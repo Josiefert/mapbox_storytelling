@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/fertigje/cmacugc5f003e01s73qe75ns5',
+    style: 'mapbox://styles/fertigje/cmaeffo1a005t01s89kpc4te8',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoiZmVydGlnamUiLCJhIjoiY205N2szY2U3MDhpZDJqcTM2dWY2MWUxZSJ9.TFgwETgCNev-Gu52yGXZRQ',
     showMarkers: false,
@@ -55,11 +55,11 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Their Eyes were Watching God: Data Overview',
-            image: '',
+            image: 'assets/their_eyes.jpeg',
             description: 'In this novel, Janie and Tea Cake make numerous purchases and travel all across Florida. The extent of their economic exchanges, namely in Orlando, and the far distances they cover demonstrate how much agency the two had. This is surprising given that this story take places in the 1930s U.S. South.',
             location: {
                 center: [-80.567, 28.045], 
-                zoom: 8.00,
+                zoom: 4.00,
                 pitch: 45.0,
                 bearing: 0,
                 // flyTo additional controls-
@@ -100,10 +100,10 @@ var config = {
             hidden: false,
             title: 'Their Eyes were Watching God: Movement Example',
             image: '',
-            description: '',
+            description: 'Tea Cake and Janie first meet in Eatonville; go to Jacksonville to marry; move to the Everglades; flee to Palm Beach to escape the hurricane; and finally, return to the muck. After Tea Cake dies, Janie returns to Eatonville alone, which further illustrates independence. ',
             location: {
-                center: [-78.8708289182793, 38.44595742954896],
-                zoom: 8.00,
+                center: [-80.342, 27.926],
+                zoom: 5.00,
                 pitch: 45.00,
                 bearing: 0
             },
@@ -118,7 +118,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'The Color Purple: Data Overview',
-            image: '',
+            image: 'assets/color_purple.jpeg',
             description: 'Here, the data says...',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -175,7 +175,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Salvage the Bones: Data Overview',
-            image: '',
+            image: 'assets/salvage_bones.jpeg',
             description: 'The data from this novel, however, offers a contradicting point. Esch is the only predominant black female character and does not have the economic means or circumstances to make large purchases or travel. This highlights the very real experience of lower-class Black families of the South.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
