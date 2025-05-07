@@ -15,8 +15,8 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Black Women and Agency in the U.S. South',
-    subtitle: 'Economic and Geographical Lenses',
+    title: '<strong> Black Women and Agency in the U.S. South </strong>',
+    subtitle: '<em> Economic and Geographical Lenses </em>',
     byline: 'Josie Fertig',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Introduction',
             image: 'assets/istockphoto-139257648-612x612.jpg',
-            description: 'An analysis of data of economic purchases and geographical movements in the following novels illustrates that black women of the U.S. South actually had more agency than commonly assumed.',
+            description: 'An analysis of data of economic purchases and geographical movements in the following novels illustrates that the black, female characters actually had more agency than would be expected.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -54,8 +54,7 @@ var config = {
             id: 'Eyes1',
             alignment: 'fully',
             hidden: false,
-            title: 'Their Eyes were Watching God',
-            subtitle: 'Data Overview',
+            title: 'Their Eyes were Watching God <br> Data Overview </br>',
             image: '',
             description: 'In this novel, the data shows...',
             location: {
@@ -80,8 +79,7 @@ var config = {
             id: 'Eyes2',
             alignment: 'left',
             hidden: false,
-            title: 'Their Eyes were Watching God',
-            subtitle: 'Economic Example',
+            title: 'Their Eyes were Watching God <br> Economic Example </br>',
             image: '',
             description: '',
             location: {
@@ -100,8 +98,7 @@ var config = {
             id: 'Eyes3',
             alignment: 'right',
             hidden: false,
-            title: 'Their Eyes were Watching God',
-            subtitle: 'Movement Example',
+            title: 'Their Eyes were Watching God <br> Movement Example </br>',
             image: '',
             description: '',
             location: {
@@ -120,8 +117,7 @@ var config = {
             id: 'Purple1',
             alignment: 'fully',
             hidden: false,
-            title: 'The Color Purple',
-            subtitle: 'Data Overview',
+            title: 'The Color Purple <br> Data Overview </br>',
             image: '',
             description: 'Here, the data says...',
             location: {
@@ -140,8 +136,7 @@ var config = {
             id: 'Purple2',
             alignment: 'left',
             hidden: false,
-            title: 'The Color Purple',
-            subtitle: 'Economic Example',
+            title: 'The Color Purple <br> Economic Example </br>',
             image: '',
             description: '',
             location: {
@@ -160,8 +155,7 @@ var config = {
             id: 'Purple3',
             alignment: 'right',
             hidden: false,
-            title: 'The Color Purple',
-            subtitle: 'Movement Example',
+            title: 'The Color Purple <br> Movement Example </br>',
             image: '',
             description: '',
             location: {
@@ -180,8 +174,7 @@ var config = {
             id: 'Salvage1',
             alignment: 'fully',
             hidden: false,
-            title: 'Salvage the Bones',
-            subtitle: 'Data Overview',
+            title: 'Salvage the Bones <br> Data Overview </br>',
             image: '',
             description: 'The data from this novel, however, offers a contradicting point. Esch is the only predominant black female character and does not have the economic means or circumstances to make large purchases or travel. This highlights the very real experience of lower-class Black families of the South.',
             location: {
@@ -200,8 +193,7 @@ var config = {
             id: 'Salvage2',
             alignment: 'left',
             hidden: false,
-            title: 'Salvage the Bones',
-            subtitle: 'Economic Example',
+            title: 'Salvage the Bones <br> Economic Example </br>',
             image: '',
             description: '',
             location: {
@@ -220,8 +212,7 @@ var config = {
             id: 'Salvage3',
             alignment: 'right',
             hidden: false,
-            title: 'Salvage the Bones',
-            subtitle: 'Movement Example',
+            title: 'Salvage the Bones <br> Movement Example </br>',
             image: '',
             description: '',
             location: {
@@ -240,10 +231,9 @@ var config = {
             id: 'Conclude',
             alignment: 'fully',
             hidden: false,
-            title: 'Conclusion', 
-            subtitle: 'Limitatons of Data',
+            title: 'Conclusion <br> Limitations of Data </br>', 
             image: '',
-            description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal experience of Black women. ',
+            description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal experience of Black women.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
