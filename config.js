@@ -15,8 +15,8 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: '<strong> Black Women and Agency in the U.S. South </strong>',
-    subtitle: '<em> Economic and Geographical Lenses </em>',
+    title: '<strong>Black Women and Agency in the U.S. South</strong>',
+    subtitle: '<em>Economic and Geographical Lenses</em>',
     byline: 'Josie Fertig',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
