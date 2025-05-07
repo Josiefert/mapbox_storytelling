@@ -51,10 +51,11 @@ var config = {
             ]
         },
         {
-            id: 'Their Eyes were Watching God',
+            id: 'Eyes1',
             alignment: 'fully',
             hidden: false,
-            title: 'Data Overview',
+            title: 'Their Eyes were Watching God',
+            subtitle: 'Data Overview',
             image: '',
             description: 'In this novel, the data shows...',
             location: {
@@ -76,10 +77,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Their Eyes were Watching God',
+            id: 'Eyes2',
             alignment: 'left',
             hidden: false,
-            title: 'Economic Example',
+            title: 'Their Eyes were Watching God',
+            subtitle: 'Economic Example',
             image: '',
             description: '',
             location: {
@@ -95,10 +97,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Their Eyes were Watching God',
+            id: 'Eyes3',
             alignment: 'right',
             hidden: false,
-            title: 'Movement Example',
+            title: 'Their Eyes were Watching God',
+            subtitle: 'Movement Example',
             image: '',
             description: '',
             location: {
@@ -114,10 +117,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'The Color Purple',
+            id: 'Purple1',
             alignment: 'fully',
             hidden: false,
-            title: 'Data Overview',
+            title: 'The Color Purple',
+            subtitle: 'Data Overview',
             image: '',
             description: 'Here, the data says...',
             location: {
@@ -133,10 +137,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'The Color Purple',
+            id: 'Purple2',
             alignment: 'left',
             hidden: false,
-            title: 'Economic Example',
+            title: 'The Color Purple',
+            subtitle: 'Economic Example',
             image: '',
             description: '',
             location: {
@@ -152,10 +157,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'The Color Purple',
+            id: 'Purple3',
             alignment: 'right',
             hidden: false,
-            title: 'Movement Example',
+            title: 'The Color Purple',
+            subtitle: 'Movement Example',
             image: '',
             description: '',
             location: {
@@ -171,10 +177,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Salvage the Bones',
+            id: 'Salvage1',
             alignment: 'fully',
             hidden: false,
-            title: 'Data Overview',
+            title: 'Salvage the Bones',
+            subtitle: 'Data Overview',
             image: '',
             description: 'The data from this novel, however, offers a contradicting point. Esch is the only predominant black female character and does not have the economic means or circumstances to make large purchases or travel. This highlights the very real experience of lower-class Black families of the South.',
             location: {
@@ -190,10 +197,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Salvage the Bones',
+            id: 'Salvage2',
             alignment: 'left',
             hidden: false,
-            title: 'Economic Example',
+            title: 'Salvage the Bones',
+            subtitle: 'Economic Example',
             image: '',
             description: '',
             location: {
@@ -209,10 +217,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Salvage the Bones',
+            id: 'Salvage3',
             alignment: 'right',
             hidden: false,
-            title: 'Movement Example',
+            title: 'Salvage the Bones',
+            subtitle: 'Movement Example',
             image: '',
             description: '',
             location: {
@@ -228,10 +237,11 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Conclusion',
+            id: 'Conclude',
             alignment: 'fully',
             hidden: false,
-            title: 'Limitations of Data',
+            title: 'Conclusion', 
+            subtitle: 'Limitatons of Data',
             image: '',
             description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal experience of Black women. ',
             location: {
