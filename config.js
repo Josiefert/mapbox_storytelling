@@ -119,7 +119,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Data Overview',
             image: 'assets/color_purple.jpeg',
-            description: 'Here, the data says...',
+            description: 'This novel includes multiple locations, mainly taking place in rural Georgia, Tennessee, and West Africa, and follows the progress of Celie through her relationship with Shug and reunion with sister Nettie.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -138,11 +138,11 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Economic Example',
             image: '',
-            description: '',
+            description: 'Pages 106-108 detail several purchases from Shug which emphasize how much money she is making from being an entertainer. She even has a house in Memphis, where later she and Celie move to and the latter starts her pants business, again demonstrating economic and geographical agency.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
+                center: [-86.387, 34.156], 
+                zoom: 7.00,
+                pitch: 20.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
@@ -157,9 +157,9 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Movement Example',
             image: '',
-            description: '',
+            description: 'Nettie has the most significant movement in this story, travelling from Georgia to New York, to England, then finally to Africa. She returns to her travels once more when she comes back to the U.S. to reunite with Celie.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-35.735, 30.687], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
