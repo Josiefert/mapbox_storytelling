@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Introduction',
             image: 'assets/istockphoto-139257648-612x612.jpg',
-            description: 'By analyzing data of economic purchases and geographical movements in the following novels, it is illustrated that black women of the U.S. South actually had more agency than commonly assumed.',
+            description: 'An analysis of data of economic purchases and geographical movements in the following novels illustrates that black women of the U.S. South actually had more agency than commonly assumed.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -52,13 +52,13 @@ var config = {
         },
         {
             id: 'Their Eyes were Watching God',
-            alignment: 'right',
+            alignment: 'fully',
             hidden: false,
-            title: 'Chapters ...',
+            title: 'Data Overview',
             image: '',
-            description: '',
+            description: 'In this novel, the data shows...',
             location: {
-                center: [-83.63009669390404, 32.83644120952183], 
+                center: [-80.567, 28.045], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0,
@@ -76,12 +76,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-two',
+            id: 'Their Eyes were Watching God',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            title: 'Economic Example',
+            image: '',
+            description: '',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
@@ -95,12 +95,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-Harrisonburg',
+            id: 'Their Eyes were Watching God',
             alignment: 'right',
             hidden: false,
-            title: 'New Title',
-            image: './assets/unknown.jpeg',
-            description: 'new description',
+            title: 'Movement Example',
+            image: '',
+            description: '',
             location: {
                 center: [-78.8708289182793, 38.44595742954896],
                 zoom: 8.00,
@@ -114,12 +114,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
+            id: 'The Color Purple',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Data Overview',
+            image: '',
+            description: 'Here, the data says...',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -131,6 +131,120 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        }
+        },
+        {
+            id: 'The Color Purple',
+            alignment: 'left',
+            hidden: false,
+            title: 'Economic Example',
+            image: '',
+            description: '',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'The Color Purple',
+            alignment: 'right',
+            hidden: false,
+            title: 'Movement Example',
+            image: '',
+            description: '',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Salvage the Bones',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Data Overview',
+            image: '',
+            description: 'The data from this novel, however, offers a contradicting point. Esch is the only predominant black female character and does not have the economic means or circumstances to make large purchases or travel. This highlights the very real experience of lower-class Black families of the South.',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Salvage the Bones',
+            alignment: 'left',
+            hidden: false,
+            title: 'Economic Example',
+            image: '',
+            description: '',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Salvage the Bones',
+            alignment: 'right',
+            hidden: false,
+            title: 'Movement Example',
+            image: '',
+            description: '',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Conclusion',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Limitations of Data',
+            image: '',
+            description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal experience of Black women. ',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
     ]
 };
