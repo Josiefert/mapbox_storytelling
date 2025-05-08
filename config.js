@@ -191,7 +191,7 @@ var config = {
         },
         {
             id: 'Purple4',
-            alignment: 'right',
+            alignment: 'centered',
             hidden: false,
             title: 'The Color Purple: Movement Example',
             image: '',
