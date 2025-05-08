@@ -157,10 +157,10 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Economic Example',
             image: '',
-            description: 'Pages 106-108 detail several purchases from Shug which emphasize just how much money she is making from being an entertainer, again contradicting the assumption that black people living in the South at this time would not have such economic capability.  She even has a house in Memphis, where later she and Celie move to and the latter starts her pants business, again demonstrating economic agency and mobility.',
+            description: 'Pages 106-108 detail several purchases from Shug (a car; furs, silk, satin, hats; "room full of shoes") which emphasize just how much money she is making from being an entertainer, again contradicting the assumption that black people living in the South at this time would not have such economic capability.  She even has a house in Memphis, where later she and Celie move to and the latter starts her pants business, again demonstrating economic agency and mobility.',
             location: {
                 center: [-86.387, 34.156], 
-                zoom: 7.00,
+                zoom: 6.00,
                 pitch: 20.0,
                 bearing: 0.00
             },
@@ -197,7 +197,7 @@ var config = {
             image: '',
             description: 'Nettie has the most significant movement in this story, travelling from Georgia to New York, to England, then finally to Africa. She returns to her travels once more when she comes back to the U.S. to reunite with Celie.',
             location: {
-                center: [-35.735, 30.687], 
+                center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -214,10 +214,10 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Data Overview',
             image: 'assets/salvage_bones.jpeg',
-            description: 'The data from this novel offers a different perspective. This family does not have the economic means or circumstances to make large purchases or travel, which highlights the very real experience of lower-class Black families of the South.',
+            description: 'The data from this novel offers a different perspective. This family does not have the economic means or circumstances to make large purchases or travel; in fact, the narrative never leaves from their home or surroundings in southern Mississippi. This novel highlights the very real experience of lower-class Black families of the South.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
+                center: [-88.565, 30.715], 
+                zoom: 7.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
@@ -233,7 +233,7 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Economic Example',
             image: '',
-            description: '',
+            description: 'The few data points on the map show just how little economic exchanges are made. One of the few occurs on page 28, where Skeetah buys the most expensive bag of dog food and Esch recalls their father once buying the generic. There are also several instances of theft in this novel, further showing their economic hardship.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
@@ -252,10 +252,10 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Movement Example',
             image: '',
-            description: '',
+            description: 'Far more movement occurs than economic transactions, but it is predominantly witin the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinitity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as other black characters given their poor social class, which is only compounded by their race in the South.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
+                zoom: 9.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
