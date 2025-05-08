@@ -81,7 +81,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes were Watching God: Economic Example',
             image: '',
-            description: 'From pages 108-115, in Orlando, Tea Cake purchases groceries, multiple clothing items and jewelry for Janie, and the two go to the movies.',
+            description: 'From pages 108-115, in Orlando, Tea Cake purchases groceries, multiple clothing items and jewelry for Janie, and the two go to the movies. The number and variety of purchases here shows that Tea Cake had the means and ability to spend his money at different places.',
             location: {
                 center: [-81.387, 28.557], 
                 zoom: 10.00,
@@ -96,26 +96,7 @@ var config = {
         },
         {
             id: 'Eyes3',
-            alignment: 'left',
-            hidden: false,
-            title: 'Their Eyes were Watching God: Economic Example',
-            image: '',
-            description: '',
-            location: {
-                center: [-81.387, 28.557], 
-                zoom: 10.00,
-                pitch: 20.00,
-                bearing: 5.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'Eyes4',
-            alignment: 'centered',
+            alignment: 'right',
             hidden: false,
             title: 'Their Eyes were Watching God: Movement Example',
             image: '',
@@ -176,10 +157,10 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Economic Example',
             image: '',
-            description: '',
+            description: 'Another example occurs when Celie finds out about the letters from Nettie. The stamps had the "little fat queen of England" (118) on it, which Nettie sends more of so Celie will write back (128), meaning that economic purchases are occurring even all the way in Africa. It is also ironic and somewhat subversive that the object being purchased by a black woman depicts the British queen, a symbol of white, colonial dominance.',
             location: {
-                center: [-81.387, 28.557], 
-                zoom: 10.00,
+                center: [-9.080, 6.225], 
+                zoom: 9.00,
                 pitch: 20.00,
                 bearing: 5.00
             },
@@ -255,8 +236,8 @@ var config = {
             description: 'Far more movement occurs than economic transactions, but it is predominantly witin the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinitity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as the other black characters given their life of poverty, which is only compounded by their race living in the South.',
             location: {
                 center: [-89.177, 30.396], 
-                zoom: 9.00,
-                pitch: 45.0,
+                zoom: 10.00,
+                pitch: 20.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
