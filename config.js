@@ -160,9 +160,9 @@ var config = {
             description: 'Another example occurs when Celie finds out about the letters from Nettie. The stamps had the "little fat queen of England" (118) on it, which Nettie sends more of so Celie will write back (128), meaning that economic purchases are occurring even all the way in Africa. It is also ironic and somewhat subversive that the object being purchased by a black woman depicts the British queen, a symbol of white, colonial dominance.',
             location: {
                 center: [-9.080, 6.225], 
-                zoom: 7.00,
+                zoom: 5.00,
                 pitch: 20.00,
-                bearing: 5.00
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -233,7 +233,7 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Movement Example',
             image: '',
-            description: 'Far more movement occurs than economic transactions, but it is predominantly witin the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinitity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as the other black characters given their life of poverty, which is only compounded by their race living in the South.',
+            description: 'Far more movement occurs than economic transactions, but it is predominantly within the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as the other black characters given their life of poverty, which is only compounded by their race living in the South.',
             location: {
                 center: [-89.177, 30.396], 
                 zoom: 10.00,
@@ -255,7 +255,7 @@ var config = {
             description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal Black experience. While Tea Cake and Janie were able to travel and make purchases, they were also relying on an unstable income and struggling to survive in a hurricane. Shug had a lot of money, but also a complicated love and family life; Nettie may have travelled, but was bound to her missionary duties and cut off from her sister, who all the while was being abused and lied to. Although Esch and her family did not have money nor the ability to travel, they arguably had the closest family bond out of all of these novels. These are the elements which data does not illuminate. That being said, this project and its geographical model provided me with a new, thoughtful approach for visualizing even the smallest details of novels.',
             location: {
                 center: [-90.3150946, 38.6605671], 
-                zoom: 3.00,
+                zoom: 4.00,
                 pitch: 60.0,
                 bearing: 0.00
             },
