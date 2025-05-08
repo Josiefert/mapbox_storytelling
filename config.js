@@ -199,7 +199,7 @@ var config = {
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3.00,
-                pitch: 40.0,
+                pitch: 30.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
