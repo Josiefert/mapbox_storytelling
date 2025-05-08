@@ -198,8 +198,8 @@ var config = {
             description: 'Nettie has the most significant movement in this story, travelling from Georgia to New York, to England, then finally to Africa. She returns to her travels once more when she comes back to the U.S. to reunite with Celie.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 8.00,
-                pitch: 45.0,
+                zoom: 3.00,
+                pitch: 40.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
@@ -210,7 +210,7 @@ var config = {
         },
         {
             id: 'Salvage1',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Salvage the Bones: Data Overview',
             image: 'assets/salvage_bones.jpeg',
@@ -235,8 +235,8 @@ var config = {
             image: '',
             description: 'The few data points on the map show just how little economic exchanges are made. One of the few occurs on page 28, where Skeetah buys the most expensive bag of dog food and Esch recalls their father once buying the generic. There are also several instances of theft in this novel, further showing their economic hardship.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
+                center: [-88.565, 30.715], 
+                zoom: 9.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
@@ -254,7 +254,7 @@ var config = {
             image: '',
             description: 'Far more movement occurs than economic transactions, but it is predominantly witin the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinitity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as other black characters given their poor social class, which is only compounded by their race in the South.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-88.565, 30.715], 
                 zoom: 9.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -273,7 +273,7 @@ var config = {
             image: '',
             description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal Black experience. While Tea Cake and Janie were able to travel and make purchases, they were also relying on an unstable income and struggling to survive in a hurricane. Shug had a lot of money, but also a complicated love and family life; Nettie may have travelled, but was bound to her missionary duties and cut off from her sister, who all the while was being abused and lied to. Although Esch and her family did not have money nor the ability to travel, they arguably had the closest family bond out of all of these novels. These are the elements which data does not illuminate. That being said, this project and its geographical model provided me with a new, thoughtful approach for visualizing even the smallest details of novels.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-90.3150946, 38.6605671], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
