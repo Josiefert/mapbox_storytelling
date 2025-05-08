@@ -81,7 +81,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes were Watching God: Economic Example',
             image: '',
-            description: 'From pages 108-115, in Orlando, Tea Cake purchases groceries, multiple clothing items and jewelry for Janie, and the two go to the movies.  ',
+            description: 'From pages 108-115, in Orlando, Tea Cake purchases groceries, multiple clothing items and jewelry for Janie, and the two go to the movies.',
             location: {
                 center: [-81.387, 28.557], 
                 zoom: 10.00,
@@ -96,11 +96,30 @@ var config = {
         },
         {
             id: 'Eyes3',
+            alignment: 'left',
+            hidden: false,
+            title: 'Their Eyes were Watching God: Economic Example',
+            image: '',
+            description: '',
+            location: {
+                center: [-81.387, 28.557], 
+                zoom: 10.00,
+                pitch: 20.00,
+                bearing: 5.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Eyes4',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes were Watching God: Movement Example',
             image: '',
-            description: 'Tea Cake and Janie first meet in Eatonville; go to Jacksonville to marry; move to the Everglades; flee to Palm Beach to escape the hurricane; and finally, return to the muck. After Tea Cake dies, Janie returns to Eatonville alone, which further illustrates their independence. ',
+            description: 'Tea Cake and Janie first meet in Eatonville; go to Jacksonville to marry; move to the Everglades; flee to Palm Beach to escape the hurricane; and finally, return to the muck. After Tea Cake dies, Janie returns to Eatonville alone, which further emphasizes the independence and mobility the black characters had. ',
             location: {
                 center: [-80.342, 27.926],
                 zoom: 7.00,
@@ -119,7 +138,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Data Overview',
             image: 'assets/color_purple.jpeg',
-            description: 'This novel includes multiple locations, mainly taking place in rural Georgia, Tennessee, and West Africa, and follows the progress of Celie through her relationship with Shug and reunion with sister Nettie.',
+            description: 'This novel takes place in the early to mid 20th century, and includes multiple locations, mainly rural Georgia, Tennessee, and West Africa, and follows the progress of Celie through her relationship with Shug and reunion with sister Nettie.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -138,7 +157,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple: Economic Example',
             image: '',
-            description: 'Pages 106-108 detail several purchases from Shug which emphasize how much money she is making from being an entertainer. She even has a house in Memphis, where later she and Celie move to and the latter starts her pants business, again demonstrating economic and geographical agency.',
+            description: 'Pages 106-108 detail several purchases from Shug which emphasize just how much money she is making from being an entertainer, again contradicting the assumption that black people living in the South at this time would not have such economic capability.  She even has a house in Memphis, where later she and Celie move to and the latter starts her pants business, again demonstrating economic agency and mobility.',
             location: {
                 center: [-86.387, 34.156], 
                 zoom: 7.00,
@@ -153,6 +172,25 @@ var config = {
         },
         {
             id: 'Purple3',
+            alignment: 'left',
+            hidden: false,
+            title: 'The Color Purple: Economic Example',
+            image: '',
+            description: '',
+            location: {
+                center: [-81.387, 28.557], 
+                zoom: 10.00,
+                pitch: 20.00,
+                bearing: 5.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Purple4',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple: Movement Example',
@@ -176,7 +214,7 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Data Overview',
             image: 'assets/salvage_bones.jpeg',
-            description: 'The data from this novel, however, offers a contradicting point. The family does not have the economic means or circumstances to make large purchases or travel, which highlights the very real experience of lower-class Black families of the South.',
+            description: 'The data from this novel offers a different perspective. This family does not have the economic means or circumstances to make large purchases or travel, which highlights the very real experience of lower-class Black families of the South.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
