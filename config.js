@@ -160,7 +160,7 @@ var config = {
             description: 'Another example occurs when Celie finds out about the letters from Nettie. The stamps had the "little fat queen of England" (118) on it, which Nettie sends more of so Celie will write back (128), meaning that economic purchases are occurring even all the way in Africa. It is also ironic and somewhat subversive that the object being purchased by a black woman depicts the British queen, a symbol of white, colonial dominance.',
             location: {
                 center: [-9.080, 6.225], 
-                zoom: 9.00,
+                zoom: 7.00,
                 pitch: 20.00,
                 bearing: 5.00
             },
