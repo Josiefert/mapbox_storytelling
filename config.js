@@ -115,7 +115,7 @@ var config = {
         },
         {
             id: 'Eyes4',
-            alignment: 'right',
+            alignment: 'centered',
             hidden: false,
             title: 'Their Eyes were Watching God: Movement Example',
             image: '',
@@ -214,11 +214,11 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Data Overview',
             image: 'assets/salvage_bones.jpeg',
-            description: 'The data from this novel offers a different perspective. This family does not have the economic means or circumstances to make large purchases or travel; in fact, the narrative never leaves from their home or surroundings in southern Mississippi. This novel highlights the very real experience of lower-class Black families of the South.',
+            description: 'The data from this novel offers a different perspective. This family does not have the economic means or circumstances to make large purchases or travel; in fact, the narrative never departs from their home or surroundings in southern Mississippi. This novel highlights the very real experience of lower-class Black families of the South.',
             location: {
                 center: [-88.565, 30.715], 
-                zoom: 7.00,
-                pitch: 45.0,
+                zoom: 8.00,
+                pitch: 50.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
@@ -229,13 +229,13 @@ var config = {
         },
         {
             id: 'Salvage2',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Salvage the Bones: Economic Example',
             image: '',
             description: 'The few data points on the map show just how little economic exchanges are made. One of the few occurs on page 28, where Skeetah buys the most expensive bag of dog food and Esch recalls their father once buying the generic. There are also several instances of theft in this novel, further showing their economic hardship.',
             location: {
-                center: [-88.565, 30.715], 
+                center: [-89.177, 30.396], 
                 zoom: 9.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -252,9 +252,9 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones: Movement Example',
             image: '',
-            description: 'Far more movement occurs than economic transactions, but it is predominantly witin the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinitity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as other black characters given their poor social class, which is only compounded by their race in the South.',
+            description: 'Far more movement occurs than economic transactions, but it is predominantly witin the woods surrounding their home at "The Pit." The only other locations they frequent are within their vicinitity, like the basketball court, gym, and gas station. Clearly, they do not have as much agency as the other black characters given their life of poverty, which is only compounded by their race living in the South.',
             location: {
-                center: [-88.565, 30.715], 
+                center: [-89.177, 30.396], 
                 zoom: 9.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -274,12 +274,12 @@ var config = {
             description: 'It is important to note that these are fictional universes and characters, and that their data should not be generalized to represent a singular, universal Black experience. While Tea Cake and Janie were able to travel and make purchases, they were also relying on an unstable income and struggling to survive in a hurricane. Shug had a lot of money, but also a complicated love and family life; Nettie may have travelled, but was bound to her missionary duties and cut off from her sister, who all the while was being abused and lied to. Although Esch and her family did not have money nor the ability to travel, they arguably had the closest family bond out of all of these novels. These are the elements which data does not illuminate. That being said, this project and its geographical model provided me with a new, thoughtful approach for visualizing even the smallest details of novels.',
             location: {
                 center: [-90.3150946, 38.6605671], 
-                zoom: 8.00,
-                pitch: 45.0,
+                zoom: 3.00,
+                pitch: 60.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
